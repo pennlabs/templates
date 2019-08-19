@@ -1,0 +1,9 @@
+**.md
+.circleci
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.gitmodules
+**/__pycache__/
+tests/
