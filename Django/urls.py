@@ -1,8 +1,8 @@
 from django.contrib import admin
-from django.urls import path, include
+from django.urls import include, path
 
 
-admin.site.site_header = "Pennlabs Example Admin"
+admin.site.site_header = 'Pennlabs Example Admin'
 
 urlpatterns = [
     # Normal URL Patterns go here
