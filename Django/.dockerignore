@@ -7,7 +7,7 @@ Dockerfile
 .git
 .gitignore
 .gitmodules
-**.md
+**/*.md
 
 # Misc
 .coverage
