@@ -1,5 +1,6 @@
 **.md
 .circleci
+.coverage
 Dockerfile
 .dockerignore
 .git
