@@ -1,10 +1,15 @@
-**.md
-.circleci
-.coverage
+# Docker
 Dockerfile
 .dockerignore
+
+# git
+.circleci
 .git
 .gitignore
 .gitmodules
+**.md
+
+# Misc
+.coverage
 **/__pycache__/
 tests/
