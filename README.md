@@ -12,4 +12,4 @@ Combined (Coming soon)
 
 Docker Image (Coming soon)
 
-PyPI package (Coming soon)
+[PyPI package](https://github.com/pennlabs/template-pypi/)
