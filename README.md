@@ -6,7 +6,7 @@ The current templates available are:
 
 [Django](https://github.com/pennlabs/template-django/)
 
-React (Coming soon)
+[React Next App](https://github.com/pennlabs/template-react-next/)
 
 Combined (Coming soon)
 
