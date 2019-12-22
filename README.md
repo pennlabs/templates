@@ -10,7 +10,7 @@ The current templates available are:
 
 Combined (Coming soon)
 
-Docker Image (Coming soon)
+[Docker Image](https://github.com/pennlabs/template-docker/)
 
 [PyPI package](https://github.com/pennlabs/template-pypi/)
 
