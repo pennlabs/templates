@@ -13,3 +13,5 @@ Combined (Coming soon)
 Docker Image (Coming soon)
 
 [PyPI package](https://github.com/pennlabs/template-pypi/)
+
+[CircleCI Orb](https://github.com/pennlabs/template-orb/)
