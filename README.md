@@ -14,7 +14,7 @@ The current templates available are:
 
 [React Next App](https://github.com/pennlabs/template-react-next/)
 
-Combined (Coming soon)
+[Combined](https://github.com/pennlabs/template-django-react/)
 
 [Docker Image](https://github.com/pennlabs/template-docker/)
 
