@@ -21,3 +21,5 @@ The current templates available are:
 [PyPI package](https://github.com/pennlabs/template-pypi/)
 
 [CircleCI Orb](https://github.com/pennlabs/template-orb/)
+
+[Helm Chart](https://github.com/pennlabs/template-helm/)
